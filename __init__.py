@@ -1,0 +1,1 @@
+print('欢迎使用easywork工具,hello')

@@ -1,0 +1,2 @@
+easypdf为site package环境下的一个包，记录自己的方法
+1.python中用import打开easypdf.m1来打开模块
